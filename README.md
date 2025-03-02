@@ -26,16 +26,19 @@ A comprehensive system monitoring tool built with Qt that provides detailed info
 ## Building
 
 ```bash
-Clone the repository
-git clone https://github.com/yourusername/system-info.git
-cd system-info
-Create build directory
+# Clone the repository
+git clone https://github.com/threelight/QTSystemStats.git
+cd QTSystemStats
+
+# Create build directory
 mkdir build
 cd build
-Configure and build
+
+# Configure and build
 cmake ..
 make
-Run the application
+
+# Run the application
 ./QTSystemStats
 ```
 
