@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>icons/dark_mode.png</file>
+        <file>icons/light_mode.png</file>
+        <file>icons/computer.png</file>
+        <file>icons/harddisk.png</file>
+        <file>icons/network.png</file>
+        <file>icons/services.png</file>
+        <file>icons/about.png</file>
+        <file>icons/exit.png</file>
+    </qresource>
+</RCC>
